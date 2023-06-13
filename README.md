@@ -87,7 +87,7 @@ The following is the main view of the Task Manager web application which is usef
 <!-- GETTING STARTED -->
 ## Getting Started
 
-aaaaaaaaaaaa
+How to install this project
 
 ### Prerequisites
 
